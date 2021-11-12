@@ -17,7 +17,7 @@
 #ifndef BSPLINE_H
 #define BSPLINE_H
 
-#include "BSplineBase.h"
+#include <BSpline/BSplineBase.h>
 #include <vector>
 
 template <class T> struct BSplineP;
