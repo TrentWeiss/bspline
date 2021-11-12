@@ -30,7 +30,7 @@ template <class T> struct BSplineP;
  * BSpline interface.
  */
 template <class T>
-class BSpline : public BSplineBase<T>
+class BSPLINE_PUBLIC BSpline : public BSplineBase<T>
 {
 public:
     /**

@@ -2,3 +2,5 @@
 /doc
 .DS_Store
 /apidocs
+build/
+install/

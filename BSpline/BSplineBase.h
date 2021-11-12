@@ -15,6 +15,7 @@
 #ifndef BSPLINEBASE_H_
 #define BSPLINEBASE_H_
 
+#include "BSpline_visibility.h"
 /**
  * @file
  *

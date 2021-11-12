@@ -27,6 +27,6 @@
  * The repo URL has been hardcoded to the NCAR organization, since it moved
  * from the ncareol organization.
  */
-#define BSPLINE_URL      "https://github.com/NCAR/bspline"
+#define BSPLINE_URL      "https://github.com/TrentWeiss/bspline"
 
 #endif // _BSPLINE_VERSION_H_
