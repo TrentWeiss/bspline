@@ -31,7 +31,7 @@ install(
     FILES_MATCHING PATTERN "*.h*"
 )
 
-install(TARGETS bspline bspline_test
+install(TARGETS bspline_test
     RUNTIME DESTINATION bin
 )
 install(TARGETS bspline
